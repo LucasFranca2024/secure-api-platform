@@ -1,4 +1,4 @@
-# Secure API Platform 🔐
+# Secure API Platform 
 
 Backend API built with FastAPI focusing on authentication, security and database structure.
 
